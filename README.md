@@ -64,8 +64,8 @@ Descriptions of changes are provided in [release notes](https://github.com/cidgo
 - [Online version](https://docs.google.com/document/d/e/2PACX-1vRRmGeKaO7cmZCiOG5Tb6qR8uij51d735wZEe33W7eUsXhV9CczCnr4kplJjpSev6gOmIRrczenY1HJ/pub)
 
 #### New Term Request (NTR) SOP
-- [PDF version]()
-- [Online version]()
+- [PDF version](https://github.com/cidgoh/AMBR_Contextual_data_Specification/blob/main/SOPs/General-Specification_New-Term-Request_SOP%201.1.pdf)
+- [Online version](https://docs.google.com/document/d/e/2PACX-1vSLfdjK53wqgq9kvrPfovwtBOUQGPEOetb4rMq9t1De5A6V1iHrGZzUPfIGp-KXk3_qLiiXLSdEB5tF/pub)
 
 ## Contacts
 For more information and/or assistance, contact Emma Griffiths at emma_griffiths@sfu.ca or submit a repository [issue request](https://github.com/cidgoh/AMBR_Contextual_data_Specification/issues/new/choose).
