@@ -60,8 +60,8 @@ Descriptions of changes are provided in [release notes](https://github.com/cidgo
 - [Online version]()
 
 #### Curation SOP
-- [PDF version]()
-- [Online version]()
+- [PDF version](https://github.com/cidgoh/AMBR_Contextual_data_Specification/blob/main/SOPs/AMBR_Contextual-Data-Curation-SOP_v1.0.pdf)
+- [Online version](https://docs.google.com/document/d/e/2PACX-1vRRmGeKaO7cmZCiOG5Tb6qR8uij51d735wZEe33W7eUsXhV9CczCnr4kplJjpSev6gOmIRrczenY1HJ/pub)
 
 #### New Term Request (NTR) SOP
 - [PDF version]()
