@@ -53,11 +53,10 @@ Descriptions of changes are provided in [release notes](https://github.com/cidgo
   - Instructions on "Getting Started" downloading and using the application, as well as application functionality can be found on the [DataHarmonizer Wiki](https://github.com/cidgoh/pathogen-genomics-package/wiki/DataHarmonizer-Getting-Started).
 
 #### Field and Term Reference Guides
-- [XLSX version]()
+- [XLSX version](https://github.com/cidgoh/AMBR_Contextual_data_Specification/blob/main/Reference%20Guide/AMBR_Master-Reference-Guide_v1.0.0.xlsx)
 - PDF version
-  - [Field Reference Guide]()
-  - [Term Reference Guide]()
-- [Online version]()
+  - [Field Reference Guide](https://github.com/cidgoh/AMBR_Contextual_data_Specification/blob/main/Reference%20Guide/AMBR_Master-Field-Reference-Guide_v1.0.0.pdf)
+  - [Term Reference Guide](https://github.com/cidgoh/AMBR_Contextual_data_Specification/blob/main/Reference%20Guide/AMBR_Master-Term-Reference-Guide_v.1.0.0.pdf)
 
 #### Curation SOP
 - [PDF version](https://github.com/cidgoh/AMBR_Contextual_data_Specification/blob/main/SOPs/AMBR_Contextual-Data-Curation-SOP_v1.0.pdf)
